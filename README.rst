@@ -17,16 +17,16 @@ $ pip install -r requirements.py
 
 ## Run the Tests
 
-...
+```
 $ pytest tests
-...
+```
 
 ## Build the Docs
 
-...
+```
 $ cd docs
 $ make html
-...
+```
 
 The docs will be built in the `_build/html` directory. Just point your browser
 at the `index.html` page in there.
